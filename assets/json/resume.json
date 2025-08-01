@@ -33,6 +33,24 @@
       "studyType": "Master of Engineering",
       "startDate": "2025-04-01",
       "endDate": "2027-03-31"
+    },
+    {
+      "institution": "Keio University, Japan",
+      "location": "Tokyo, Japan",
+      "url": "https://www.keio.ac.jp/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2021-04",
+      "endDate": "2025-03"
+    },
+    {
+      "institution": "RWTH Aachen University, Germany",
+      "location": "Aachen, Germany",
+      "url": "https://www.rwth-aachen.de/cms/~a/root/?lidx=1",
+      "area": "Computer Science",
+      "studyType": "Exchange",
+      "startDate": "2023-10",
+      "endDate": "2024-07"
     }
   ],
   "publications": [
